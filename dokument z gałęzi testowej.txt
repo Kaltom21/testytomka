@@ -1,0 +1,1 @@
+sprawdzenie jak działa nowa gałąź w tym przypadku testowa i jak mozna ją połączyć z gałęzią main
